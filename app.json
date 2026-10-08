@@ -1,0 +1,10 @@
+{
+  "name": "NutriTrack",
+  "displayName": "NutriTrack",
+  "expo": {
+    "name": "NutriTrack",
+    "slug": "nutritrack",
+    "version": "1.0.0",
+    "icon": "./assets/IconNutritrack.png"
+  }
+}
